@@ -63,6 +63,8 @@
     <Compile Include="PDF\PDFOperation.cs" />
     <Compile Include="PicDeal.cs" />
     <Compile Include="QueryString.cs" />
+    <Compile Include="SplitListByLINQ.cs" />
+    <Compile Include="SqlHelper\SqlHelperByItCast.cs" />
     <Compile Include="SysHelper.cs" />
     <Compile Include="Tools.cs" />
     <Compile Include="ValidateImg.cs">
@@ -75,6 +77,7 @@
     <Compile Include="上传下载\FileUp.cs" />
     <Compile Include="分词辅助类\SegList.cs" />
     <Compile Include="压缩解压缩\SharpZip.cs" />
+    <Compile Include="图片\DownloadImgByUrl.cs" />
     <Compile Include="图片\ImageClass.cs" />
     <Compile Include="图片\ImageDown.cs" />
     <Compile Include="图片\ImageUpload.cs" />

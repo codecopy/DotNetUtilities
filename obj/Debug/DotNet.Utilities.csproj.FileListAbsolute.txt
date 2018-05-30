@@ -24,3 +24,17 @@ C:\Users\Administrator\Desktop\新建文件夹\DotNet.Utilities\obj\Debug\DotNet
 C:\Users\Administrator\Desktop\新建文件夹\DotNet.Utilities\obj\Debug\DotNet.Utilities.csproj.CopyComplete
 C:\Users\Administrator\Desktop\新建文件夹\DotNet.Utilities\obj\Debug\DotNet.Utilities.dll
 C:\Users\Administrator\Desktop\新建文件夹\DotNet.Utilities\obj\Debug\DotNet.Utilities.pdb
+D:\DotNet.Utilities\DotNetUtilities\obj\Debug\DotNet.Utilities.csproj.CoreCompileInputs.cache
+D:\DotNet.Utilities\DotNetUtilities\obj\Debug\DotNet.Utilities.dll
+D:\DotNet.Utilities\DotNetUtilities\obj\Debug\DotNet.Utilities.pdb
+D:\DotNet.Utilities\DotNetUtilities\bin\Debug\DotNet.Utilities.dll
+D:\DotNet.Utilities\DotNetUtilities\bin\Debug\DotNet.Utilities.pdb
+D:\DotNet.Utilities\DotNetUtilities\bin\Debug\Excel.dll
+D:\DotNet.Utilities\DotNetUtilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\DotNet.Utilities\DotNetUtilities\bin\Debug\itextsharp.dll
+D:\DotNet.Utilities\DotNetUtilities\bin\Debug\Microsoft.Office.Interop.Owc11.dll
+D:\DotNet.Utilities\DotNetUtilities\bin\Debug\OWC10Chart.dll
+D:\DotNet.Utilities\DotNetUtilities\bin\Debug\office.dll
+D:\DotNet.Utilities\DotNetUtilities\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\DotNet.Utilities\DotNetUtilities\bin\Debug\stdole.dll
+D:\DotNet.Utilities\DotNetUtilities\obj\Debug\DotNet.Utilities.csproj.CopyComplete
