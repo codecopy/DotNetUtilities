@@ -62,6 +62,7 @@
     <Compile Include="Mime\QuotedPrintableEncoding.cs" />
     <Compile Include="PDF\PDFOperation.cs" />
     <Compile Include="PicDeal.cs" />
+    <Compile Include="Quartz\QuartzHelper.cs" />
     <Compile Include="QueryString.cs" />
     <Compile Include="SplitListByLINQ.cs" />
     <Compile Include="SqlHelper\SqlHelperByItCast.cs" />
@@ -91,6 +92,8 @@
     <Compile Include="汉字转拼音\EcanConvertToCh.cs" />
     <Compile Include="汉字转拼音\PinYin.cs" />
     <Compile Include="网络\NetHelper.cs" />
+    <Compile Include="网络爬虫\HttpHelper.cs" />
+    <Compile Include="网络爬虫\InternetWorm.cs" />
     <Compile Include="视频转换类\VideoConvert.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
